@@ -1,4 +1,4 @@
-a = int(input())
-b = int(input())
-my_age = (a + b)
-print(my_age)
+a = 42
+b = 18
+c = (a + b)
+print(c)
